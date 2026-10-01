@@ -1,1 +1,1 @@
-# Workshop1-Programming
+# Workshop1-FoundationsOfProgramming
